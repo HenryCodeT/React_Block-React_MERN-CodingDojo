@@ -1,0 +1,8 @@
+.main{
+    background-color: #e06666;
+    height: 500px;
+    width: 70%;
+    display: flex;
+    gap: 1em;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,8 @@
+.sub{
+    background-color: #ffd966;
+    height: 65%;
+    width: 50px;
+    flex-basis: 50px;
+    flex-grow: 1;
+    margin: 1em;
+}
